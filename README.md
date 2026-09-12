@@ -12,7 +12,7 @@
   <i>Sort hundreds of photos without turning your workflow into a second job.</i>
 </p>---
 
-✦ What is Cullr?
+✦ What is FidFanCullr?
 
 Cullr is a lightweight, portable Windows desktop application designed to make photo culling fast and simple.
 
@@ -368,7 +368,7 @@ Potential future improvements:
 
 ✦ License
 
-Add your preferred license here.
+FidFanStudios.
 
 ---
 
