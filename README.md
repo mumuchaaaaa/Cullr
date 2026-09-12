@@ -1,4 +1,5 @@
-Cullr
+<div align="center">CULLR
+
 
 <p align="center">
   <strong>Fast. Focused. Made for Culling.</strong><br>
